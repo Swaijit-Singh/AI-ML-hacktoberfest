@@ -9,7 +9,6 @@ Hacktoberfest-2022
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
 Hacktoberfest 2022
-![Event Completed](/scripts/Event_Completed_.png)
 
 # 📌 Videos 📽️:
 
