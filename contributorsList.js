@@ -7,8 +7,8 @@ contributors = [
   
   {
     id: 2,
-    fullname: "Your Name",
-    username: "https://github.com/yourusername",
+    fullname: "Manas Lohani",
+    username: "https://github.com/manaslohani",
   },
 
 
