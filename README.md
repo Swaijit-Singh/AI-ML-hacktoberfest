@@ -97,12 +97,11 @@ This will give you any eventual conflicts and allow you to easily solve them in 
   - Anyone with a github account and who is signed up for
 [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
 - Are you getting paid for this?
-  - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
+  - Sadly no. But I think we should. This is 100% unofficial and we do it for fun, fame and glory.
 - Who are you and why are you doing this?
-  - We are two programmers from India [Anmol](https://www.linkedin.com/in/fineanmol/)
-  and [Ritesh](https://github.com/ritesh2905). We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
+  - I are a programmer from India [Swaijit](https://www.linkedin.com/in/swaijit-singh-s-85b787121/). We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
 - Why are you not using digitalocean?
-  - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
+  - Because I only know Phyton and suck at servers. We use [now](https://zeit.co/now) instead.
 
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
   - Nope.
